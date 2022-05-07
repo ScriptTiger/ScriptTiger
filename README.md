@@ -1,6 +1,6 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/thescripttiger%40gmail.com)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ScriptTiger&show_icons=true&theme=radical&include_all_commits=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ScriptTiger&show_icons=true&theme=radical&include_all_commits=true)](https://scripttiger.github.io/)
 
 For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
 https://scripttiger.github.io/
