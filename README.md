@@ -4,5 +4,7 @@
 
 [![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ScriptTiger&theme=yeblu)](https://scripttiger.github.io/)
 
+[![Buy me a coffee!](https://scripttiger.github.io/images/Coffee.png)](https://lynk.id/scripttiger)
+
 For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
 https://scripttiger.github.io/
